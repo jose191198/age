@@ -17,6 +17,6 @@ print(y)
 #3.-Determina quién es más grande (variables "x" y "y") utilizando if y else.
 
 if x > y:
-    print("Sujeto 1 es mayor que sujeto 2")
+    print(f'Sujeto 1 es mayor que sujeto 2 con {x} años')
 else:
-    print("Sujeto 2 es mayor que sujeto 1")
+    print(f'Sujeto 2 es mayor que sujeto 1 con {y} años')
